@@ -4,38 +4,43 @@ CHROME CACHE CLEANER — PROPRIETARY SOFTWARE LICENSE
 
 1. Ownership
 
-Chrome Cache Cleaner, including its source code, software design, original artwork, documentation, and other original materials in this repository, is owned by SK ABDUL AHMED unless a file or component states otherwise.
+Chrome Cache Cleaner, including its source code, software design, original user interface, original artwork, documentation, and other original materials in this repository, is owned by SK ABDUL AHMED unless a file or component states otherwise.
 
-2. Limited permission
+2. Official application use
 
-Permission is granted to view and inspect the source code for personal, educational, security-review, and evaluation purposes.
+You may download and use an official compiled release of Chrome Cache Cleaner for personal, educational, evaluation, and other lawful use, provided that the software is obtained from an official distribution source authorized by the copyright owner.
 
-3. Restrictions
+3. Source-code access
+
+The source code is publicly viewable for transparency, learning, evaluation, security review, and personal study. Public access to the source code does not transfer ownership or grant a general right to reuse, republish, modify, or redistribute the source code.
+
+4. Permission required for reuse
 
 Without prior written permission from the copyright owner, you may NOT:
 
-- copy, reproduce, publish, or redistribute the source code or substantial portions of it;
-- sell, sublicense, rent, lease, or commercially distribute the software or substantial portions of its source code;
-- create and distribute a competing product substantially derived from this source code;
-- rebrand, rename, or present modified copies of the software as your own product;
-- remove or alter copyright, attribution, license, or ownership notices;
-- use the project's original name, logos, icons, artwork, Chrome/Google branding, or other trademarks to imply endorsement or official affiliation.
+- copy or substantially reproduce the source code;
+- create, publish, or distribute a modified version of Chrome Cache Cleaner;
+- use substantial portions of the source code in another application, website, product, or service;
+- create a competing product substantially derived from Chrome Cache Cleaner;
+- redistribute modified or rebuilt versions of Chrome Cache Cleaner;
+- sell, sublicense, rent, lease, or commercially redistribute the software or substantial portions of its source code;
+- rebrand, rename, or present a modified or derivative version as your own product;
+- remove or alter copyright, license, attribution, or ownership notices;
+- use the Chrome Cache Cleaner name, logo, original artwork, Chrome/Google branding, or other trademarks to imply endorsement or official affiliation.
 
-4. Forks and GitHub use
+5. Ideas, concepts, and implementation
 
-GitHub users may view and fork this public repository as permitted by GitHub's Terms of Service. A fork does not grant additional copyright, commercial, redistribution, or derivative-work rights beyond those provided by applicable law and this license.
+This license does not claim ownership of general ideas, concepts, methods, algorithms, or functionality that are not protected by copyright or another applicable intellectual-property right. However, copying or substantially reproducing Chrome Cache Cleaner's copyrighted source code, original artwork, documentation, or other protected expression is not permitted without authorization.
 
-5. Third-party components and trademarks
+If you want to build a product based on Chrome Cache Cleaner, reuse its source code, create a modified version, redistribute it, or use substantial portions of its implementation, contact the copyright owner and obtain written permission first.
+
+6. Third-party components and trademarks
 
 This license applies only to original material owned by SK ABDUL AHMED. Third-party libraries, frameworks, fonts, icons, trademarks, Chrome/Google branding, and other materials remain subject to their respective licenses and terms. This project is not affiliated with or endorsed by Google LLC unless explicitly stated otherwise.
 
-6. No warranty
+7. No warranty
 
 The software is provided "as is", without warranties of any kind, express or implied, to the maximum extent permitted by applicable law. The copyright owner is not liable for claims, damages, or other liability arising from use of the software, except where such limitation is not permitted by law.
-
-7. Permission requests
-
-For commercial use, redistribution, derivative products, licensing, partnership, or other uses not permitted above, contact the copyright owner and obtain written permission before use.
 
 8. Reservation of rights
 
