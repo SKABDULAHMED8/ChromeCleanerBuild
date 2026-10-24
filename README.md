@@ -2,17 +2,19 @@
 
 Offline Windows GUI utility.
 
+> **License & Permission:** Chrome Cache Cleaner is proprietary software. You may view the source and use an official compiled release according to the `LICENSE`. Reuse of substantial source code, modified or rebuilt versions, redistribution, commercial integration, or derivative products requires written permission from **SK ABDUL AHMED**. See [`LICENSE`](LICENSE) and [`PERMISSIONS.md`](PERMISSIONS.md).
+
 ## Build
 
 Open PowerShell in this folder:
 
 ```powershell
-.\build.ps1
+.\\build.ps1
 ```
 
 The EXE will be:
 
-`publish\ChromeCacheCleaner.exe`
+`publish\\ChromeCacheCleaner.exe`
 
 ## Safety
 
